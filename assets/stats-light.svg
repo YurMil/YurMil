@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="190" viewBox="0 0 440 190" role="img" aria-label="GitHub at a glance">
+  <title>GitHub at a glance</title>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1B4F8A"/>
+      <stop offset="1" stop-color="#6E56CF"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; }
+    .fade { opacity: 0; animation: fade .6s ease-out forwards; }
+    @keyframes fade { to { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .fade { animation: none; opacity: 1; } }
+  </style>
+  <rect x="0.5" y="0.5" width="439" height="189" rx="12" fill="none" stroke="#D0D7DE"/>
+  <rect x="24" y="22" width="4" height="18" rx="2" fill="url(#accent)"/>
+  <text x="38" y="37" font-size="17" font-weight="600" fill="#1B4F8A">GitHub at a glance</text>
+  <g class="fade" style="animation-delay:0s">
+    <text x="24" y="82" font-size="26" font-weight="700" fill="#24292F">1,414</text>
+    <text x="24" y="102" font-size="12" fill="#57606A">Contributions (1y)</text>
+  </g>
+  <g class="fade" style="animation-delay:0.08s">
+    <text x="154.66666666666666" y="82" font-size="26" font-weight="700" fill="#24292F">1,042</text>
+    <text x="154.66666666666666" y="102" font-size="12" fill="#57606A">Commits (1y)</text>
+  </g>
+  <g class="fade" style="animation-delay:0.16s">
+    <text x="285.3333333333333" y="82" font-size="26" font-weight="700" fill="#24292F">247</text>
+    <text x="285.3333333333333" y="102" font-size="12" fill="#57606A">Pull requests (1y)</text>
+  </g>
+  <g class="fade" style="animation-delay:0.24s">
+    <text x="24" y="144" font-size="26" font-weight="700" fill="#24292F">1</text>
+    <text x="24" y="164" font-size="12" fill="#57606A">Stars earned</text>
+  </g>
+  <g class="fade" style="animation-delay:0.32s">
+    <text x="154.66666666666666" y="144" font-size="26" font-weight="700" fill="#24292F">32</text>
+    <text x="154.66666666666666" y="164" font-size="12" fill="#57606A">Public repos</text>
+  </g>
+  <g class="fade" style="animation-delay:0.4s">
+    <text x="285.3333333333333" y="144" font-size="26" font-weight="700" fill="#24292F">5</text>
+    <text x="285.3333333333333" y="164" font-size="12" fill="#57606A">Followers</text>
+  </g>
+</svg>
