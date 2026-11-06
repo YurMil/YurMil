@@ -236,13 +236,14 @@ Focused, single-purpose utilities, published and improved **in public**.
 
 <div align="center">
 
+<!-- Cards are generated daily by .github/workflows/profile-stats.yml -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YurMil&show_icons=true&hide_border=true&bg_color=00000000&title_color=4F8EF7&icon_color=8B7CF6&text_color=C9D1D9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YurMil&show_icons=true&hide_border=true&bg_color=00000000&title_color=1B4F8A&icon_color=6E56CF&text_color=24292F" alt="Yurii's GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg" />
+  <img src="assets/stats-light.svg" alt="Yurii's GitHub stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YurMil&layout=compact&hide_border=true&bg_color=00000000&title_color=4F8EF7&text_color=C9D1D9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YurMil&layout=compact&hide_border=true&bg_color=00000000&title_color=1B4F8A&text_color=24292F" alt="Top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/langs-dark.svg" />
+  <img src="assets/langs-light.svg" alt="Top languages" />
 </picture>
 
 </div>
