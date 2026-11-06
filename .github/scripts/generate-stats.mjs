@@ -74,7 +74,7 @@ async function fetchStats() {
   const reposQuery = `
     query($login: String!, $after: String) {
       user(login: $login) {
-        repositories(first: 100, after: $after, ownerAffiliations: OWNER, isFork: false) {
+        repositories(first: 100, after: $after, ownerAffiliations: OWNER, isFork: false, privacy: PUBLIC) {
           totalCount
           pageInfo { hasNextPage endCursor }
           nodes {
