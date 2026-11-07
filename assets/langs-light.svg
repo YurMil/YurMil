@@ -18,22 +18,22 @@
   <clipPath id="bar"><rect x="24" y="56" width="292" height="10" rx="5"/></clipPath>
   <rect x="24" y="56" width="292" height="10" rx="5" fill="#EAEEF2"/>
   <g clip-path="url(#bar)">
-    <rect x="24.00" y="56" width="116.68" height="10" fill="#3178c6"/>
-    <rect x="140.68" y="56" width="70.96" height="10" fill="#f1e05a"/>
-    <rect x="211.63" y="56" width="41.76" height="10" fill="#fcb32c"/>
-    <rect x="253.40" y="56" width="36.12" height="10" fill="#7355dd"/>
-    <rect x="289.52" y="56" width="16.88" height="10" fill="#e34c26"/>
-    <rect x="306.40" y="56" width="9.60" height="10" fill="#663399"/>
+    <rect x="24.00" y="56" width="116.59" height="10" fill="#3178c6"/>
+    <rect x="140.59" y="56" width="71.17" height="10" fill="#f1e05a"/>
+    <rect x="211.77" y="56" width="41.71" height="10" fill="#fcb32c"/>
+    <rect x="253.48" y="56" width="36.07" height="10" fill="#7355dd"/>
+    <rect x="289.55" y="56" width="16.87" height="10" fill="#e34c26"/>
+    <rect x="306.41" y="56" width="9.59" height="10" fill="#663399"/>
   </g>
   <g class="fade" style="animation-delay:0s">
     <circle cx="29" cy="94" r="5" fill="#3178c6"/>
     <text x="40" y="98" font-size="13" fill="#24292F">TypeScript</text>
-    <text x="158" y="98" font-size="12" fill="#57606A" text-anchor="end">40.0%</text>
+    <text x="158" y="98" font-size="12" fill="#57606A" text-anchor="end">39.9%</text>
   </g>
   <g class="fade" style="animation-delay:0.08s">
     <circle cx="175" cy="94" r="5" fill="#f1e05a"/>
     <text x="186" y="98" font-size="13" fill="#24292F">JavaScript</text>
-    <text x="304" y="98" font-size="12" fill="#57606A" text-anchor="end">24.3%</text>
+    <text x="304" y="98" font-size="12" fill="#57606A" text-anchor="end">24.4%</text>
   </g>
   <g class="fade" style="animation-delay:0.16s">
     <circle cx="29" cy="122" r="5" fill="#fcb32c"/>
