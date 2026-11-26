@@ -36,7 +36,7 @@
     <text x="154.66666666666666" y="164" font-size="12" fill="#57606A">Public repos</text>
   </g>
   <g class="fade" style="animation-delay:0.4s">
-    <text x="285.3333333333333" y="144" font-size="26" font-weight="700" fill="#24292F">5</text>
+    <text x="285.3333333333333" y="144" font-size="26" font-weight="700" fill="#24292F">6</text>
     <text x="285.3333333333333" y="164" font-size="12" fill="#57606A">Followers</text>
   </g>
 </svg>
